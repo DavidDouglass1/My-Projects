@@ -1,2 +1,2 @@
 # My-Projects
-My Coping Projects
+My Coding Projects
